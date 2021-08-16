@@ -56,4 +56,7 @@ front end development
 
 ## Wakatime
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eduardo_developer)](https://github.com/anuraghazra/github-readme-stats)
+<a href="" >
+      <img src="https://ore-no-github-readme-stats.vercel.app/api/wakatime?username=eduardo_developer&range=last_7_days&layout=compact&custom_title=Last%207%20Days&theme=nord"
+           alt="Github Stats" />
+</a>
