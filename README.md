@@ -57,6 +57,6 @@ front end development
 ## Wakatime
 
 <a href="" >
-      <img src="https://ore-no-github-readme-stats.vercel.app/api/wakatime?username=eduardo_developer&range=last_7_days&layout=compact&custom_title=Last%207%20Days&theme=nord"
+      <img src="https://ore-no-github-readme-stats.vercel.app/api/wakatime?username=eduardo_developer&range=last_7_days&layout=compact&custom_title=Last%207%20Days&theme=dark"
            alt="Github Stats" />
 </a>
