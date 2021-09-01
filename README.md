@@ -14,7 +14,7 @@
   <a href="https://www.instagram.com/dcode01.dev/">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/channel/UCEF5LzRSR0csWZv3HrZ5R0g">
+  <a href="https://www.youtube.com/channel/UCt2jJSow9oG89IZFG8Yvibg">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>&nbsp;&nbsp;
   <a target="_blank" href="mailto:eduardosilvaprogramador@gmail.com">
