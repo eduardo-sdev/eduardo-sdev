@@ -59,3 +59,4 @@ front end development
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-developer01&layout=compact&theme=dark" alt="eduardo top languages" height=172/>
     <a/>
 </p>
+<a href="https://github.com/eduardo-developer01/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=eduardo-developer01&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
