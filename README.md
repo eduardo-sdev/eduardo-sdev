@@ -17,10 +17,11 @@
 <h2>Sobre</h2>
 
 <p>
-  Sou um Desenvolvedor Front-end, Apaixonado pelas melhores tecnologias de desenvolvimento web. Tenho experiência com projetos usando
-    - html
-    - JavaScript/Typescript
-    - Css/Sass  
-    - NodeJS
-    - ReactJS/NextJS
+  Sou um Desenvolvedor Front-end, Apaixonado pelas melhores tecnologias de desenvolvimento web. <br>Com experiência com projetos usando:
 </p>
+
+- html/JSX
+- JavaScript/Typescript
+- Css/Sass  
+- NodeJS
+- ReactJS/NextJS
