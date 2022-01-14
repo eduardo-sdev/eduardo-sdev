@@ -14,3 +14,13 @@
   </a>&nbsp;&nbsp;
 </p>
 
+<h2>Sobre</h2>
+
+<p>
+  Sou um Desenvolvedor Front-end, Apaixonado pelas melhores tecnologias de desenvolvimento web. Tenho experiência com projetos usando
+    - html
+    - JavaScript/Typescript
+    - Css/Sass  
+    - NodeJS
+    - ReactJS/NextJS
+</p>
