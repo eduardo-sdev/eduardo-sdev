@@ -25,3 +25,5 @@
 - Css/Sass  
 - NodeJS
 - ReactJS/NextJS
+
+<img src="https://activity-graph.herokuapp.com/graph?username=eduardo-sdev&bg_color=282a36&color=ffffff&line=533849&point=fe6e95&area_color=7cd3ff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="eduardo-sdev"/>
