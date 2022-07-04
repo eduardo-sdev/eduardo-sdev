@@ -12,6 +12,9 @@
   <a target="_blank" href="mailto:eduardosilvaprogramador@gmail.com">
   <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/eduardo01s_/">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>&nbsp;&nbsp;
 </p>
 
 <h2>Sobre</h2>
