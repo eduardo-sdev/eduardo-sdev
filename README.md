@@ -12,21 +12,6 @@
   <a target="_blank" href="mailto:eduardosilvaprogramador@gmail.com">
   <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/eduardo01s_/">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>&nbsp;&nbsp;
 </p>
-
-<h2>Sobre</h2>
-
-<p>
-  Sou um Desenvolvedor Front-end, Apaixonado pelas melhores tecnologias de desenvolvimento web. <br>Com experiência com projetos usando:
-</p>
-
-- html/JSX
-- JavaScript/Typescript
-- Css/Sass  
-- NodeJS
-- ReactJS/NextJS
 
 <img src="https://activity-graph.herokuapp.com/graph?username=eduardo-sdev&bg_color=282a36&color=ffffff&line=533849&point=fe6e95&area_color=7cd3ff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="eduardo-sdev"/>
